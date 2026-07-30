@@ -3,6 +3,9 @@
 To perform histogram processing and histogram equalization on grayscale and color images using OpenCV. To enhance image contrast and compare the original and equalized histograms.
 
 # SOFTWARE REQUIRED :
+## Developed By : SHRIHARI M
+## Register Number: 212225230265
+## Title : EXP-3-Record-Histogram processing.
 ```
 --> Anaconda - Python 3.7
 --> Jupyter Notebook (for interactive development and execution)
